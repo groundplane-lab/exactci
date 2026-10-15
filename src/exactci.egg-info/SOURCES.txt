@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/exactci/__init__.py
+src/exactci/_api.py
+src/exactci/_conditional.py
+src/exactci/_score.py
+src/exactci/_validate.py
+src/exactci.egg-info/PKG-INFO
+src/exactci.egg-info/SOURCES.txt
+src/exactci.egg-info/dependency_links.txt
+src/exactci.egg-info/requires.txt
+src/exactci.egg-info/top_level.txt
+tests/test_free.py
